@@ -1,0 +1,5 @@
+
+User-Agent: * 
+Disallow: /assets/ 
+Allow: /*.css?* 
+Sitemap: https://naderab.github.io/sitemap.xml 
